@@ -1,0 +1,19 @@
+{
+  "name": "verify-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Orhan Örs <orsorhan1@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.4.2",
+    "truffle-plugin-verify": "^0.5.11"
+  }
+}
